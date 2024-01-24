@@ -11,3 +11,7 @@ https://www.smashingmagazine.com/2017/08/nine-principles-design-implementation/
 
 HTML & CSS Full Course - Beginner to Pro
 https://www.youtube.com/watch?v=G3e-cpL7ofc
+
+
+What is HTML, CSS, and JavaScript?
+https://www.youtube.com/watch?v=DHGhFJZLKMs
