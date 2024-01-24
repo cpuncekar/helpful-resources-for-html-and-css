@@ -15,3 +15,7 @@ https://www.youtube.com/watch?v=G3e-cpL7ofc
 
 What is HTML, CSS, and JavaScript?
 https://www.youtube.com/watch?v=DHGhFJZLKMs
+
+
+Git, GitHub, & GitHub Desktop for beginners
+https://www.youtube.com/watch?v=8Dd7KRpKeaE
