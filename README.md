@@ -22,3 +22,6 @@ https://www.youtube.com/watch?v=8Dd7KRpKeaE
 
 Compress Images Online
 https://www.img2go.com/compress-image
+
+
+https://tinypng.com/
